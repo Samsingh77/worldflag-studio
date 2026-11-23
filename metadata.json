@@ -1,0 +1,6 @@
+{
+  "name": "WorldFlag Studio",
+  "description": "Professional SVG Flag Library for PowerPoint and Graphic Designers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
